@@ -1,5 +1,7 @@
 # speed-run-ethereum-challenges
 
+https://speedrunethereum.com/
+
 ## 🥩 Decentralized Staking App
 
 -   [Contract](https://goerli.etherscan.io/address/0xaA0424d6DE3b3F7b812b8B3fD80f70e0A24f7ea4)
